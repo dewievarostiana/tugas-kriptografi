@@ -1,7 +1,9 @@
 # tugas-kriptografi
 AffineChiper
-Nama : Fara Deviana
+Nama : Evarostiana Dewi
+
 NIM : 312010295
+
 Kelas : TI.20.A2
 
 Encrypt
